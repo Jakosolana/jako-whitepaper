@@ -1,4 +1,4 @@
-# jako-whitepaper
+# Jako-Whitepaper
 Official whitepaper for JAKO and the Jakoverse
 🌟 JAKO Whitepaper
 
