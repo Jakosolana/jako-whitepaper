@@ -1,3 +1,5 @@
+![JAKO Banner](horse_in_space.GIF)
+
 # Jako-Whitepaper
 Official whitepaper for JAKO and the Jakoverse
 🌟 JAKO Whitepaper
